@@ -14,11 +14,11 @@ Estudante de desenvolvimento de sistemas, com projetos em Java, Spring Boot, Jav
 
 | Projeto | Descrição |
 | --- | --- |
-| [API de biblioteca](https://github.com/andrezon04/library-springboot-relationship) | Estudo de persistência e relacionamentos com Java, Spring Boot e MySQL. |
-| [Rick and Morty](https://github.com/andrezon04/react-rickmorty-api) | Consulta e apresentação de personagens de uma API pública com React. |
-| [NASA APOD](https://github.com/andrezon04/nasa-data-fetcher) | Aplicação colaborativa para consultar a mídia astronômica do dia. |
-| [Testes com Cypress](https://github.com/andrezon04/4dm-cypress-tests) | Cenários de login e interação com formulários. |
-| [Suporte de Domingo](https://github.com/andrezon04/rebranding-sdd) | Estudo de migração de uma página estática para componentes React. |
+| [API de biblioteca](https://github.com/andrezon04/spring-boot-library-api) | Estudo de persistência e relacionamentos com Java, Spring Boot e MySQL. |
+| [Rick and Morty](https://github.com/andrezon04/rick-and-morty-react) | Consulta e apresentação de personagens de uma API pública com React. |
+| [NASA APOD](https://github.com/andrezon04/nasa-apod-explorer) | Aplicação colaborativa para consultar a mídia astronômica do dia. |
+| [Testes com Cypress](https://github.com/andrezon04/4dm-cypress-e2e) | Cenários de login e interação com formulários. |
+| [Suporte de Domingo](https://github.com/andrezon04/suporte-de-domingo-react) | Estudo de migração de uma página estática para componentes React. |
 
 ## Contato
 
@@ -35,8 +35,8 @@ O exercício original de tela de login foi preservado em [examples/signin.html](
 
 | Projeto | Foco |
 | --- | --- |
-| [Upload de imagens](https://github.com/andrezon04/save-image-springboot) | Recebimento multipart e armazenamento de arquivos com Spring Boot. |
-| [Autenticação com Spring Security](https://github.com/andrezon04/springboot-security-config) | Laboratório de HTTP Basic, BCrypt e perfis de acesso, com limitações documentadas. |
+| [Upload de imagens](https://github.com/andrezon04/spring-boot-image-upload-api) | Recebimento multipart e armazenamento de arquivos com Spring Boot. |
+| [Autenticação com Spring Security](https://github.com/andrezon04/spring-security-basic-auth) | Laboratório de HTTP Basic, BCrypt e perfis de acesso, com limitações documentadas. |
 
 ## Manutenção da página
 
