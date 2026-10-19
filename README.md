@@ -31,13 +31,12 @@ Esta página reúne links para os repositórios dos projetos. As instruções e 
 O exercício original de tela de login foi preservado em [examples/signin.html](examples/signin.html). Ele depende de imagens e estilos que não estão incluídos neste repositório.
 
 
-## Em desenvolvimento
+## Outros estudos técnicos
 
 | Projeto | Foco |
 | --- | --- |
-| [E-commerce](https://github.com/andrezon04/ecommerce-springboot-relationship) | Modelo de domínio e evolução do fluxo de pedidos. |
 | [Upload de imagens](https://github.com/andrezon04/save-image-springboot) | Recebimento multipart e armazenamento de arquivos com Spring Boot. |
-| [To-do Mobile](https://github.com/andrezon04/components-react-todo) | Componentes React Native e organização de tarefas; integração pendente. |
+| [Autenticação com Spring Security](https://github.com/andrezon04/springboot-security-config) | Laboratório de HTTP Basic, BCrypt e perfis de acesso, com limitações documentadas. |
 
 ## Manutenção da página
 
